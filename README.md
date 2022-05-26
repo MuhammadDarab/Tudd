@@ -1,4 +1,4 @@
-<h1 align="center">Tudd⚡</h1>
+<h1 align="center">TUDD!: The Game!⚡</h1>
 
 <p align="center"><img autoplay src="https://cdn-learn.adafruit.com/assets/assets/000/075/200/small240/gaming_mort_walk.gif?1556902218"></p>
 
