@@ -1,7 +1,6 @@
 <h1 align="center">Tudd⚡</h1>
 
 <p align="center"><img autoplay src="https://cdn-learn.adafruit.com/assets/assets/000/075/200/small240/gaming_mort_walk.gif?1556902218"></p>
-![](http://i.imgur.com/60bts.gif)
 
 <p align="center"><i>An Open Source Game!🎮</i></p>
 
