@@ -1,0 +1,108 @@
+html{
+    overflow: hidden;
+    transition: 0.4s;
+
+}
+
+.game{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background-color: black; */
+}
+
+@keyframes jump {
+    
+    0%   { top: 525px; }
+    50%  { top: 404px; }
+    100% { top: 525px; }
+
+}
+
+@keyframes shakeScreen {
+
+    0%   {top: 0px; left: 0px; transition: 0.4s; }
+    25%  {top: -4px; left: 10px; transition: 0.4s; }
+    50%  {top: 10px; left: -8px; transition: 0.4s; }
+    75%  {top: -6px; left: -6px; transition: 0.4s; }
+    100% {top: 0px; left: 0px; transition: 0.4s; }
+    
+}
+
+.Jump {
+
+    animation: jump .8s;
+    /* transition: 0.4s; */
+
+}
+
+.shake {
+
+    animation: shakeScreen 0.4s infinite;
+    transition: 0.4s;
+    transform: scale(1.04);
+
+}
+
+.scenary{
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background-repeat: no-repeat; */
+    background-position: 0px -199px;
+    background-size: cover;
+    
+
+}
+
+.ground{
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: repeat-x;
+    background-size: 82px;
+    background-position: bottom;
+    
+}
+
+.player{
+
+    padding: 80px;
+    background-size: cover;
+    z-index: 10;
+    /* background-color: blue;  */
+
+}
+
+.item{
+
+    padding: 20px;
+    position: absolute;
+    top: 622px;
+    z-index: 5;
+    background-size: cover;
+
+}
+
+.items{
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 200px;
+
+    /* width: 100%;
+    height: 100%; */
+    /* background-repeat: no-repeat; */
+    /* background-position: 0px -200px; */
+    /* background-size: cover; */
+
+}
