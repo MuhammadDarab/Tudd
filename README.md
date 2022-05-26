@@ -7,4 +7,6 @@
 <h1 align="center">Objectives!!🎉</h1>
 <h3 align="center"><i>Hit⚠️ And Destroy⛔</i></h3>
 <p align="center"><i>In The Map🗺️, There comes only one rocket launcher⚔️, Get it for a Higher Chance of winning!🎉🎉</i></p>
+<p align="center"><i>Live Deployment📍 Coming Soon!!</i></p>
+<p align="center"><i>Thank you for Visiting!</i></p>
 
