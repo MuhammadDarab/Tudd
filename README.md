@@ -1,6 +1,6 @@
 <h1 align="center">Tudd</h1>
 
-<img src="https://i.pinimg.com/originals/98/da/de/98dade4fbe97aef8c722857519ebfe45.gif">
+<p align="center"><img src="https://cdn-learn.adafruit.com/assets/assets/000/075/200/small240/gaming_mort_walk.gif?1556902218"></p>
 
 <p align="center"><i>An Open Source Game!</i></p>
 
