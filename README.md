@@ -5,6 +5,6 @@
 <p align="center"><i>An Open Source Game!🎮</i></p>
 
 <h1 align="center">Objectives!!🎉</h1>
-<i align="center">Hit⚠️ And Destroy⛔<i>
+<p align="center"><i>Hit⚠️ And Destroy⛔<i></p>
 <p align="center"><i>In The Map🗺️, There comes only one rocket launcher⚔️, Get it for a Higher Chance of winning!🎉🎉</i></p>
 
