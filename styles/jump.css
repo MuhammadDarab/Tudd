@@ -1,0 +1,15 @@
+@keyframes jump {
+    
+    0%   { top: 525px; }
+    50%  { top: 404px; }
+    100% { top: 525px; }
+
+}
+
+
+.Jump {
+
+    animation: jump .8s;
+    /* transition: 0.4s; */
+
+}

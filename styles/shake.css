@@ -1,0 +1,17 @@
+.shake {
+
+    animation: shakeScreen 0.4s infinite;
+    transition: 0.4s;
+    transform: scale(1.04);
+
+}
+
+@keyframes shakeScreen {
+
+    0%   {top: 0px; left: 0px; transition: 0.4s; }
+    25%  {top: -4px; left: 10px; transition: 0.4s; }
+    50%  {top: 10px; left: -8px; transition: 0.4s; }
+    75%  {top: -6px; left: -6px; transition: 0.4s; }
+    100% {top: 0px; left: 0px; transition: 0.4s; }
+    
+}
