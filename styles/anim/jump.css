@@ -1,4 +1,4 @@
-@keyframes jump {
+@keyframes Jump {
     
     0%   { top: 525px; }
     50%  { top: 404px; }
@@ -6,9 +6,8 @@
 
 }
 
+.jump {
 
-.Jump {
-
-    animation: jump .8s;
+    animation: Jump .8s;
 
 }

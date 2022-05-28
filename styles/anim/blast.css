@@ -1,0 +1,13 @@
+@keyframes Blast {
+    
+    0%   { padding: 20px; }
+    50%  { padding: 40px; }
+    100% { padding: 10px; }
+
+}
+
+.blast{
+
+    animation: Blast .2s;
+
+}
