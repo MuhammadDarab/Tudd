@@ -10,11 +10,11 @@
 
 <h1 align="center"><i>How to setup?📦</i></h1>
 
-   <b>
-   - Clone The Project Using <i>git clone</i> <br />
-   - Go to the directory and open it on a live server (Use Vscode for mental peace) <br />
-   - Enjoy! <br />
-   </b>
+<b>
+   <p align="center">- Clone The Project Using <i>git clone</i> <br /></p>
+   <p align="center">- Go to the directory and open it on a live server (Use Vscode for mental peace) <br /></p>
+   <p align="center">- Enjoy! <br /></p>
+</b>
 
 <p align="center"><i>Live Deployment📍 Coming Soon!!</i></p>
 <p align="center"><i>Thank you for Visiting!</i></p>
