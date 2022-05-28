@@ -16,6 +16,8 @@
    <p align="center">- Enjoy! <br /></p>
 </b>
 
+   <hr>
+
 <p align="center"><i>Live Deployment📍 Coming Soon!!</i></p>
 <p align="center"><i>Thank you for Visiting!</i></p>
 
