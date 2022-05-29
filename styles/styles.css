@@ -50,6 +50,16 @@ html{
 
 }
 
+.enemy{
+
+    padding: 80px;
+    top:525px;
+    background-size: cover;
+    z-index: 10;
+    /* background-color: blue;  */
+
+}
+
 .item{
 
     padding: 20px;
