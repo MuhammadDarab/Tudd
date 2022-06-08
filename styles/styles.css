@@ -68,7 +68,7 @@ html{
     position: absolute;
     top: 622px;
     z-index: 5;
-    background-size: cover;
+    background-size: contain;
 
 }
 
