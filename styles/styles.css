@@ -42,7 +42,9 @@ html{
 
 .player{
 
-    padding: 80px;
+    /* padding: 80px; */
+    width: 160px;
+    height: 160px;
     top:525px;
     background-size: cover;
     z-index: 10;
