@@ -72,6 +72,14 @@ html{
 
 }
 
+.itemPicked{
+
+    /* position: relative; */
+    background-size: contain;
+    margin: 0px 0px 40px 40px;
+    
+}
+
 .item:hover{
 
     padding: 22px;
