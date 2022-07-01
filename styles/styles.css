@@ -68,8 +68,16 @@ html{
     position: absolute;
     top: 622px;
     z-index: 5;
-    background-size: cover;
+    background-size: contain;
 
+}
+
+.itemPicked{
+
+    /* position: relative; */
+    background-size: contain;
+    margin: 0px 0px 40px 40px;
+    
 }
 
 .item:hover{
